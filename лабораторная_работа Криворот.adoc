@@ -5,6 +5,7 @@
 :icons: font
 :source-highlighter: pygments
 :pygments-style: tango
+:stem: latexmath
 
 == Цель работы
 * Освоить современные методы предобработки текстовых данных для задач NLP
@@ -418,6 +419,5 @@ for name, result in results.items():
 * Jurafsky, D. & Martin, J.H. "Speech and Language Processing" (3rd ed.) - фундаментальный учебник по NLP
 * Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Aurélien Géron) - практические примеры реализации
 * Продвинутое руководство по TF-IDF: https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
-* Руководство по классификации текстов с использованием SVM: https://monkeylearn.com/text-classification/support-vector-machines/
 * Курс по NLP от Stanford: https://online.stanford.edu/courses/cs224n-natural-language-processing-deep-learning
 * Практические примеры работы с Word Embeddings: https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial
