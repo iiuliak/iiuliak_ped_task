@@ -318,12 +318,16 @@ for name, result in results.items():
 5. israel (вес 0.127)
 
 * Сравнение метрик по классам:
-+
+
+[cols="1,1,1,1", options="header"]
+|===
 | Класс | Precision (SVM) | Recall (SVM) | F1 (SVM)
-| sci.space | 0.89 | 0.86 | 0.87
-| talk.religion.misc | 0.85 | 0.82 | 0.83
-| rec.sport.baseball | 0.91 | 0.94 | 0.92
-| talk.politics.mideast | 0.88 | 0.90 | 0.89
+
+| sci.space            | 0.89 | 0.86 | 0.87
+| talk.religion.misc   | 0.85 | 0.82 | 0.83
+| rec.sport.baseball   | 0.91 | 0.94 | 0.92
+| talk.politics.mideast| 0.88 | 0.90 | 0.89
+|===
 
 == Анализ результатов
 * Сравнение моделей:
